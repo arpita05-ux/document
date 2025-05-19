@@ -7,5 +7,6 @@ public class AboutMe {
         System.out.println("progress is loading.");
 
 
-        system.out.print.ln("learning java initial stage");
+      
+        system.out.print.ln("learning java from initial stage");
         
